@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Department of Geography</p>
-    <p>Texas A&M University, College Station, Texas5</p>
+    <p>Texas A&M University College Station, Texas5</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
