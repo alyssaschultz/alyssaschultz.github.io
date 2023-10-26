@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Oceanographyer. Science Communicator. Deep-Sea Invertebrate Enthusiast.
 
 profile:
   align: right
@@ -18,8 +18,7 @@ profile:
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Currently, my research revolves around the use of paleoceanographic reconstructions to understand natural and anthropogenic climate variability in marine and coastal environments, as well as ecosystem resilience.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Outside of research, I am interested in science-driven policy and conservation and management related to marine life, coastal and deep-sea habitats, and climate change. I am dedicated to bringing together science and communication by creating interactive outreach activities that establish ocean connections and foster positive relationships with science, promoting stewardship and education.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
