@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Oceanographyer. Science communicator. Deep-sea invertebrate enthusiast.
+subtitle: Oceanographer. Science communicator. Deep-sea invertebrate enthusiast.
 
 profile:
   align: top
