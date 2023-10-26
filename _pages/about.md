@@ -18,6 +18,7 @@ profile:
 social: true  # includes social icons at the bottom of the page
 ---
 
+
 Currently, my research revolves around the use of paleoceanographic reconstructions to understand natural and anthropogenic climate variability in marine and coastal environments, as well as ecosystem resilience.
 
 Outside of research, I am interested in science-driven policy and conservation and management related to marine life, coastal and deep-sea habitats, and climate change. I am dedicated to bringing together science and communication by creating interactive outreach activities that establish ocean connections and foster positive relationships with science, promoting stewardship and education.
