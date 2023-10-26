@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://alyssaschultz.github.io/blog/sitemap.xml
+Sitemap: https://alyssaschultz.github.io/sitemap.xml
