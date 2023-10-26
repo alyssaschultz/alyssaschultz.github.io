@@ -7,7 +7,7 @@ subtitle: Oceanographyer. Science Communicator. Deep-Sea Invertebrate Enthusiast
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Department of Geography</p>
     <p>Texas A&M University College Station, Texas</p>
