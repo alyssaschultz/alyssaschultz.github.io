@@ -5,7 +5,7 @@ permalink: /
 subtitle: Oceanographyer. Science communicator. Deep-sea invertebrate enthusiast.
 
 profile:
-  align: center
+  align: top
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
