@@ -1,9 +1,9 @@
 ---
 layout: page
 permalink: /research/
-title: Research
+title: research
 description:
 nav: true
 nav_order: 1
 ---
-<!-- _pages/publications.md -->
+<!-- _pages/research.md -->
