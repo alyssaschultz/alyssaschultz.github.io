@@ -2,7 +2,7 @@
 layout: page
 title: KM 2212
 description: Unraveling the Enigma of North Pacific Deep-Sea Scleractinian Reefs in Undersaturated Water.
-img: assets/img/12.jpg
+img: assets/img/KM2212.JPG
 importance: 1
 category: work
 related_publications:
@@ -18,7 +18,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/12.jpg
+    img: /assets/KM2212.JPG
     ---
 
 <div class="row">
