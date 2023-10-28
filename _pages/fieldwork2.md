@@ -8,7 +8,7 @@ nav_order: 7
 ---
 <!-- _pages/fieldwork2.md -->
 KM2212
----
+<!--Arxiv - optional -->
 GO-SHIP P02 Leg 2
----
+<!--Arxiv - optional -->
 KM2113
