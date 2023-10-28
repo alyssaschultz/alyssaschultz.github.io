@@ -2,8 +2,8 @@
 layout: page
 title: project 3
 description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+img: assets/img/KM2113.JPG
+redirect: 
 importance: 3
 category: work
 ---
@@ -18,7 +18,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/12.jpg
+    img: /assets/img/KM2113.JPG
     ---
 
 <div class="row">
